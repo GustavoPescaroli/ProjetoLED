@@ -1,0 +1,11 @@
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.csproj.AssemblyReference.cache
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.csproj.SuggestedBindingRedirects.cache
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.Form1.resources
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.Properties.Resources.resources
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.csproj.GenerateResource.cache
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.csproj.CoreCompileInputs.cache
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\bin\Debug\ProjetoLED.exe.config
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\bin\Debug\ProjetoLED.exe
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\bin\Debug\ProjetoLED.pdb
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.exe
+C:\Users\depes\source\repos\ProjetoLED\ProjetoLED\obj\Debug\ProjetoLED.pdb
